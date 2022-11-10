@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AvitoWeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_city">Введите город</string>
+    <string name="without_data">-</string>
+    <string name="weather_today">Прогноз на сутки</string>
+    <string name="Weather_today">Прогноз на 7 дн</string>
+</resources>
