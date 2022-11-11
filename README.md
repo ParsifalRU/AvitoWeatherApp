@@ -24,7 +24,6 @@ Functionality used:
 - Recycler View
 - Cashing Images
 - Parsing JSON
-- MVVM
 - Single Activity
 - Data Binding
 - LiveData
