@@ -9,7 +9,7 @@ What you can do:
 - Get the weather for the day
 - Get the weather forecast for the week
 
-Using API:https://api.weatherapi.com
+Using API:  https://api.weatherapi.com
 
 Libraries used:
 -
